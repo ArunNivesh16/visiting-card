@@ -1,0 +1,28 @@
+font-size: 24px;
+      margin: 10px 0;
+    }
+    .profile-card p {
+      color: #666;
+      margin-bottom: 20px;
+    }
+    .profile-card .social-icons a {
+      margin: 0 10px;
+      color: #333;
+      text-decoration: none;
+      font-size: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="profile-card">
+    <img src="https://via.placeholder.com/100" alt="Profile Picture">
+    <h2>ARUN NIVESH</h2>
+    <p>Web Developer</p>
+    <div class="social-icons">
+      <a href="#">🔗</a>
+      <a href="#">🔗</a>
+      <a href="#">🔗</a>
+    </div>
+  </div>
+</body>
+</html>4
